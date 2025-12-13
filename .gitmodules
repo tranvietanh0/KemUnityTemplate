@@ -1,0 +1,3 @@
+[submodule "GameTemplate/Assets/GameFoundationCore"]
+	path = GameTemplate/Assets/GameFoundationCore
+	url = git@github.com:tranvietanh0/KemFoundationCore.git
